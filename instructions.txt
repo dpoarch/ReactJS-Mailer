@@ -1,0 +1,17 @@
+Please type the following instructions:
+
+=====================================================
+- Open a command prompt and type cd ReactJS-Mailer
+- run npm install on your prompt
+- run npm start
+
+url: http://localhost:3000
+
+Mail Server
+=====================================================
+- On ReactJS-Mailer folder type on your prompt:
+   
+   cd server
+
+- and run nodemon index.js on your prompt.
+
